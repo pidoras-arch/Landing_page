@@ -23,4 +23,48 @@
 .logo{
     font-weight: bold;
     font-size: 24px;
+    color: #ffff;
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: #1F2937;
+    color: #ffff;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.main_img{
+    width: 600px;
+    height: 300px;
+    padding-left: 10%;
+}
+
+.main_paragraph{
+    display: flex;
+    flex-direction: column;
+}
+
+.main_text{
+    font-weight: 900;
+    font-size: 48px;
+}
+.secondary_text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    width: 125px;
+    height: 30px;
+    background-color: #3882F6;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 13px;
+    border-radius: 15px;
 }
