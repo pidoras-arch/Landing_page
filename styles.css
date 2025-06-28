@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    font-family: Roboto;
+}
+
+.header{
+    height: 60px;
+    display : flex;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: 18px;
+}
+.link1{
+    margin-left: auto;
+}
+.link2{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.logo{
+    font-weight: bold;
+    font-size: 24px;
+}
