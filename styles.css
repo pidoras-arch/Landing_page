@@ -115,3 +115,24 @@
     height: 170px;
 }
 
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.quote_text{
+    font-size: 36px;
+    font-weight: 300;   /* Light */
+    font-style: italic; /* Italic */
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.author{
+    align-self: self-end;
+    padding-right: 300px;
+    font-size: 20px;
+    font-weight: 800;
+}
