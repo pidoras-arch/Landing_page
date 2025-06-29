@@ -71,7 +71,7 @@
     font-weight: bold;
     padding: 5px;
     margin-top: 13px;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .information{
@@ -135,4 +135,40 @@
     padding-right: 300px;
     font-size: 20px;
     font-weight: 800;
+}
+
+.prochure_section{
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px 100px 0px;
+}
+.prochure{
+    width: 850px;
+    color:#E5E7EB;
+    font-size: 18px;
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 50px 100px 50px 100px;
+    justify-content: space-between;
+    
+}
+.auction_button{
+    color: #FFFF;
+    border: 2px solid #FFFF ;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    width: 125px;
+    height: 30px;
+    font-weight: bold;
+    padding: 5px;
+}
+.prochure_header{
+    color: #FFFF;
+    font-size: 25px;
+    font-weight: 600;
+}
+.prochure_text{
+    padding-right: auto;
 }
