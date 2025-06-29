@@ -172,3 +172,13 @@
 .prochure_text{
     padding-right: auto;
 }
+
+.footer{
+    height: 100px;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #FFFF;
+    font-size: 18px;
+}
